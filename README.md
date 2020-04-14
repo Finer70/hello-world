@@ -1,2 +1,5 @@
 # hello-world
-New project 
+
+"Hello World!"
+
+New project for Humans!  Huzzah!
